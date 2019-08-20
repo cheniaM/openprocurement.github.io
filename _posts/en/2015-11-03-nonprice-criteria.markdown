@@ -48,7 +48,7 @@ Each criterion can be applied to either participant’s price proposal in genera
 
 The form of a non-price criterion creation can look as follows:
 
-![Form for tender with non-price criteria](/images/nonprcri/en_nonprice_criteria_tender.png)
+![Form for tender with non-price criteria](https://openprocurement.io/en/images/en_nonprice_criteria_tender.png.2)
 
 The non-price criteria, their possible values, and their weight ​​are displayed in the tender announcement. Thus, in this example, participants know that in order to get the maximum score for the "Payment terms" criterion they have to offer deferred payment for at least 180 days, etc. They determine their capabilities basing on this criterion. Also, participants who submit deferred payment terms 90 days and 179 days will receive the same option weight. 
 
